@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--vwglz5m5avzkmyugpocws1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/14823e48-55ac-42b0-8de6-5029902a06ae/resourceGroups/VE-InnovationDays-Team-3/providers/Microsoft.Synapse/workspaces/vwglz5m5avzkmyugpocws1",
+		"groupId": "sql",
+		"fqdns": [
+			"vwglz5m5avzkmyugpocws1.76399ce0-2921-43a5-a641-344db9df6858.sql.azuresynapse.net"
+		]
+	}
+}
